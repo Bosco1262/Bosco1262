@@ -1,11 +1,2 @@
-![Stone Badge](https://stone.professorlee.work/api/stone/Bosco1262/Bosco1262)
-- 👋 Hi, I’m @Bosco1262
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Bosco1262/Bosco1262 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+emby-tmm-library-tools
+![Stone Badge](https://stone.professorlee.work/api/stone/Bosco1262/emby-tmm-library-tools)
