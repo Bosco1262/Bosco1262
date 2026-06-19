@@ -3,7 +3,7 @@
 
 ## Self-introduction
 
-I'm Bosco1262, a beginner developer just starting my coding journey. I love turning ideas into real projects, and I'm here to learn, build, and grow.
+I'm Bosco, a beginner developer just starting my coding journey. I love turning ideas into real projects, and I'm here to learn, build, and grow.
 
 
 ## My Pin Repositories
