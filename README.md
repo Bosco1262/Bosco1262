@@ -29,8 +29,6 @@ Finished:
 - [emby-tmm-library-tools](https://github.com/Bosco1262/emby-tmm-library-tools)
 - [ClaudeCode-Deployment-for-HarmonyOS](https://github.com/Bosco1262/ClaudeCode-Deployment-for-HarmonyOS)
 
----
-
 ### Fork Repositories
 
 Planning:
@@ -41,13 +39,16 @@ Finished:
 - [transmission-web-control-for-DSM7.2](https://github.com/Bosco1262/transmission-web-control-for-DSM7.2): Fix script for installing transmission-web-control on DSM 7.2 
 - [CF-Worker-Uptime](https://github.com/Bosco1262/CF-Worker-Uptime): Add github action to automatically bootstrap Cloudflare D1 for CF-Worker-Uptime
 
+<br>
+
 
 ## Reminders for My Repositories
 
-- Bilingual (English & Chinese) README for all repos
+- Bilingual (English & Chinese) README and code comments for all repos
 
   ```markdown
   [English](README.md) | [简体中文](README_zh-CN.md)
-  ```
 
-- All code comments in English only
+  // This is a code comment
+  // 这是一行注释
+  ```
