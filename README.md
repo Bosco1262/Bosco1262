@@ -28,6 +28,7 @@ Planning:
 Finished:
 - [emby-tmm-library-tools](https://github.com/Bosco1262/emby-tmm-library-tools)
 - [ClaudeCode-Deployment-for-HarmonyOS](https://github.com/Bosco1262/ClaudeCode-Deployment-for-HarmonyOS)
+- [SelfShorts](https://github.com/Bosco1262/SelfShorts)
 
 ### Fork Repositories
 
@@ -47,8 +48,14 @@ Finished:
 - Bilingual (English & Chinese) README and code comments for all repos
 
   ```markdown
+  # README
   [English](README.md) | [简体中文](README.zh-CN.md)
 
+  This project is licensed under the [MIT License](LICENSE).
+  
+  本项目采用 [MIT License](LICENSE)。
+
+  # Code Comments
   // This is a code comment
   // 这是一行注释
   ```
