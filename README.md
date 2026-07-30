@@ -24,6 +24,8 @@ Planning:
 - [Family-Museum-Archive](https://github.com/Bosco1262/Family-Museum-Archive)
 - [SoundScape](https://github.com/Bosco1262/SoundScape)
 - [SynologyDrive-for-HarmonyOS](https://github.com/Bosco1262/SynologyDrive-for-HarmonyOS)
+- [llama-cmd-for-rx590-and-16gRAM](https://github.com/Bosco1262/llama-cmd-for-rx590-and-16gRAM)
+- [Cloudflare-AI-Aggregator](https://github.com/Bosco1262/Cloudflare-AI-Aggregator)
 
 Finished:
 - [emby-tmm-library-tools](https://github.com/Bosco1262/emby-tmm-library-tools)
