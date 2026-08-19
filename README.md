@@ -31,12 +31,11 @@ Finished:
 - [emby-tmm-library-tools](https://github.com/Bosco1262/emby-tmm-library-tools)
 - [ClaudeCode-Deployment-for-HarmonyOS](https://github.com/Bosco1262/ClaudeCode-Deployment-for-HarmonyOS)
 - [SelfShorts](https://github.com/Bosco1262/SelfShorts)
+- [Sun-Panel-on-Cloudflare-Worker](https://github.com/Bosco1262/Sun-Panel-on-Cloudflare-Worker)
 
 ### Fork Repositories
 
 Planning:
-- [Sun-Panel-on-Cloudflare-Worker](https://github.com/Bosco1262/Sun-Panel-on-Cloudflare-Worker): Adapt Sun-Panel to cloudflare worker
-- [cherry-studio-hmos-desktop](https://github.com/Bosco1262/cherry-studio-hmos-desktop): Adapt the latest version
 
 Finished:
 - [transmission-web-control-for-DSM7.2](https://github.com/Bosco1262/transmission-web-control-for-DSM7.2): Fix script for installing transmission-web-control on DSM 7.2 
