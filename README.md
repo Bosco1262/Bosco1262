@@ -26,12 +26,13 @@ Planning:
 - [SynologyDrive-for-HarmonyOS](https://github.com/Bosco1262/SynologyDrive-for-HarmonyOS)
 - [llama-cmd-for-rx590-and-16gRAM](https://github.com/Bosco1262/llama-cmd-for-rx590-and-16gRAM)
 - [Cloudflare-AI-Aggregator](https://github.com/Bosco1262/Cloudflare-AI-Aggregator)
+- [Sun-Panel-on-Cloudflare-Worker](https://github.com/Bosco1262/Sun-Panel-on-Cloudflare-Worker)
+- [M365-Copilot2API-on-Cloudflare-Worker](https://github.com/Bosco1262/M365-Copilot2API-on-Cloudflare-Worker)
 
 Finished:
 - [emby-tmm-library-tools](https://github.com/Bosco1262/emby-tmm-library-tools)
 - [ClaudeCode-Deployment-for-HarmonyOS](https://github.com/Bosco1262/ClaudeCode-Deployment-for-HarmonyOS)
 - [SelfShorts](https://github.com/Bosco1262/SelfShorts)
-- [Sun-Panel-on-Cloudflare-Worker](https://github.com/Bosco1262/Sun-Panel-on-Cloudflare-Worker)
 
 ### Fork Repositories
 
