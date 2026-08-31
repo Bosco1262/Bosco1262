@@ -33,6 +33,7 @@ Finished:
 - [emby-tmm-library-tools](https://github.com/Bosco1262/emby-tmm-library-tools)
 - [ClaudeCode-Deployment-for-HarmonyOS](https://github.com/Bosco1262/ClaudeCode-Deployment-for-HarmonyOS)
 - [SelfShorts](https://github.com/Bosco1262/SelfShorts)
+- [open-webui-to-openai-api](https://github.com/Bosco1262/open-webui-to-openai-api)
 
 ### Fork Repositories
 
