@@ -34,6 +34,7 @@ Finished:
 - [ClaudeCode-Deployment-for-HarmonyOS](https://github.com/Bosco1262/ClaudeCode-Deployment-for-HarmonyOS)
 - [SelfShorts](https://github.com/Bosco1262/SelfShorts)
 - [open-webui-to-openai-api](https://github.com/Bosco1262/open-webui-to-openai-api)
+- [open-webui-to-openai-api-worker](https://github.com/Bosco1262/open-webui-to-openai-api-worker)
 
 ### Fork Repositories
 
