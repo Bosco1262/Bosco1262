@@ -43,6 +43,7 @@ Planning:
 Finished:
 - [transmission-web-control-for-DSM7.2](https://github.com/Bosco1262/transmission-web-control-for-DSM7.2): Fix script for installing transmission-web-control on DSM 7.2 
 - [CF-Worker-Uptime](https://github.com/Bosco1262/CF-Worker-Uptime): Add github action to automatically bootstrap Cloudflare D1 for CF-Worker-Uptime
+- [CF-Workers-SUB](https://github.com/Bosco1262/CF-Workers-SUB): Enable KV auto provisioning
 
 <br>
 
