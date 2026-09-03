@@ -37,9 +37,9 @@ Finished:
 ### Derived Repositories
 
 Planning:
-- [StoneBadge-on-Cloudflare-Worker](https://github.com/Bosco1262/StoneBadge-on-Cloudflare-Worker): Transplant server to Cloudflare Worker
-- [Sun-Panel-on-Cloudflare-Worker](https://github.com/Bosco1262/Sun-Panel-on-Cloudflare-Worker)
-- [M365-Copilot2API-on-Cloudflare-Worker](https://github.com/Bosco1262/M365-Copilot2API-on-Cloudflare-Worker)
+- [StoneBadge-on-Cloudflare-Worker](https://github.com/Bosco1262/StoneBadge-on-Cloudflare-Worker): Transplant to Cloudflare Worker
+- [Sun-Panel-on-Cloudflare-Worker](https://github.com/Bosco1262/Sun-Panel-on-Cloudflare-Worker): Transplant to Cloudflare Worker
+- [M365-Copilot2API-on-Cloudflare-Worker](https://github.com/Bosco1262/M365-Copilot2API-on-Cloudflare-Worker): Transplant to Cloudflare Worker
 
 Finished:
 - [transmission-web-control-for-DSM7.2](https://github.com/Bosco1262/transmission-web-control-for-DSM7.2): Fix script for installing transmission-web-control on DSM 7.2 
