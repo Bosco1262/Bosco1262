@@ -17,7 +17,7 @@ I'm Bosco, a beginner developer just starting my coding journey. I love turning 
 
 ## Repository List
 
-### My Repositories
+### Original Repositories
 
 Planning:
 - [Personal-Local-Media-Platform](https://github.com/Bosco1262/Personal-Local-Media-Platform)
@@ -26,8 +26,6 @@ Planning:
 - [SynologyDrive-for-HarmonyOS](https://github.com/Bosco1262/SynologyDrive-for-HarmonyOS)
 - [llama-cmd-for-rx590-and-16gRAM](https://github.com/Bosco1262/llama-cmd-for-rx590-and-16gRAM)
 - [Cloudflare-AI-Aggregator](https://github.com/Bosco1262/Cloudflare-AI-Aggregator)
-- [Sun-Panel-on-Cloudflare-Worker](https://github.com/Bosco1262/Sun-Panel-on-Cloudflare-Worker)
-- [M365-Copilot2API-on-Cloudflare-Worker](https://github.com/Bosco1262/M365-Copilot2API-on-Cloudflare-Worker)
 
 Finished:
 - [emby-tmm-library-tools](https://github.com/Bosco1262/emby-tmm-library-tools)
@@ -36,10 +34,12 @@ Finished:
 - [open-webui-to-openai-api](https://github.com/Bosco1262/open-webui-to-openai-api)
 - [open-webui-to-openai-api-worker](https://github.com/Bosco1262/open-webui-to-openai-api-worker)
 
-### Fork Repositories
+### Derived Repositories
 
 Planning:
 - [StoneBadge-on-Cloudflare-Worker](https://github.com/Bosco1262/StoneBadge-on-Cloudflare-Worker): Transplant server to Cloudflare Worker
+- [Sun-Panel-on-Cloudflare-Worker](https://github.com/Bosco1262/Sun-Panel-on-Cloudflare-Worker)
+- [M365-Copilot2API-on-Cloudflare-Worker](https://github.com/Bosco1262/M365-Copilot2API-on-Cloudflare-Worker)
 
 Finished:
 - [transmission-web-control-for-DSM7.2](https://github.com/Bosco1262/transmission-web-control-for-DSM7.2): Fix script for installing transmission-web-control on DSM 7.2 
