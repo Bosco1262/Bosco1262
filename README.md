@@ -39,6 +39,7 @@ Finished:
 ### Fork Repositories
 
 Planning:
+- [StoneBadge-on-Cloudflare-Worker](https://github.com/Bosco1262/StoneBadge-on-Cloudflare-Worker): Transplant server to Cloudflare Worker
 
 Finished:
 - [transmission-web-control-for-DSM7.2](https://github.com/Bosco1262/transmission-web-control-for-DSM7.2): Fix script for installing transmission-web-control on DSM 7.2 
