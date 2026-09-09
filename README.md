@@ -14,6 +14,8 @@ I'm Bosco, a beginner developer just starting my coding journey. I love turning 
 
 [Stone Badge](https://github.com/professor-lee/StoneBadge) by [professor-lee](https://github.com/professor-lee) reads the repository's newest commit, turns the short SHA into unique colors, gradients, and glow effects, and returns an SVG badge.
 
+<br>
+
 
 ## Repository List
 
@@ -34,34 +36,46 @@ Finished:
 - [open-webui-to-openai-api](https://github.com/Bosco1262/open-webui-to-openai-api)
 - [open-webui-to-openai-api-worker](https://github.com/Bosco1262/open-webui-to-openai-api-worker)
 
+Manually Verified:
+
 ### Derived Repositories
 
 Planning:
 - [StoneBadge-on-Cloudflare-Worker](https://github.com/Bosco1262/StoneBadge-on-Cloudflare-Worker): Transplant to Cloudflare Worker
-- [Sun-Panel-on-Cloudflare-Worker](https://github.com/Bosco1262/Sun-Panel-on-Cloudflare-Worker): Transplant to Cloudflare Worker
 - [M365-Copilot2API-on-Cloudflare-Worker](https://github.com/Bosco1262/M365-Copilot2API-on-Cloudflare-Worker): Transplant to Cloudflare Worker
 
 Finished:
 - [transmission-web-control-for-DSM7.2](https://github.com/Bosco1262/transmission-web-control-for-DSM7.2): Fix script for installing transmission-web-control on DSM 7.2 
 - [CF-Worker-Uptime](https://github.com/Bosco1262/CF-Worker-Uptime): Add github action to automatically bootstrap Cloudflare D1 for CF-Worker-Uptime
 - [CF-Workers-SUB](https://github.com/Bosco1262/CF-Workers-SUB): Enable KV auto provisioning
+- [Sun-Panel-on-Cloudflare-Worker](https://github.com/Bosco1262/Sun-Panel-on-Cloudflare-Worker): Transplant to Cloudflare Worker
+
+Manually Verified:
 
 <br>
 
 
-## Reminders for My Repositories
+## Reminders for Original Repositories
 
 - Bilingual (English & Chinese) README and code comments for all repos
 
   ```markdown
   # README
+  # Language Switch
   [English](README.md) | [简体中文](README.zh-CN.md)
 
-  This project is licensed under the [MIT License](LICENSE).
-  
-  本项目采用 [MIT License](LICENSE)。
+  # License
+  README.md: This project is licensed under the [MIT License](LICENSE).
+  README.zh-CN.md: 本项目采用 [MIT License](LICENSE)。
+
 
   # Code Comments
   // This is a code comment
   // 这是一行注释
+
+  // This is a
+  // multi-line comment.
+  //
+  // 这是一个
+  // 多行注释
   ```
