@@ -35,6 +35,7 @@ Finished:
 - [SelfShorts](https://github.com/Bosco1262/SelfShorts)
 - [open-webui-to-openai-api](https://github.com/Bosco1262/open-webui-to-openai-api)
 - [open-webui-to-openai-api-worker](https://github.com/Bosco1262/open-webui-to-openai-api-worker)
+- [wake-on-usb-server-on-onecloud-armbian-docker](https://github.com/Bosco1262/wake-on-usb-server-on-onecloud-armbian-docker)
 
 Manually Verified:
 
@@ -55,7 +56,7 @@ Manually Verified:
 <br>
 
 
-## Reminders for Original Repositories
+## Reminders for Non-forked Repositories
 
 - Bilingual (English & Chinese) README and code comments for all repos
 
