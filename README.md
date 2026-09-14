@@ -79,4 +79,11 @@ Manually Verified:
   //
   // 这是一个
   // 多行注释
+
+
+  # Output & Display
+  Expects language resolution to follow a fixed priority:
+  1. An explicit manual `lang` parameter (like "-lang" in a Python script, a container env var...)
+  2. Automatically detected (like the system/browser language)
+  3. English as the guaranteed fallback
   ```
