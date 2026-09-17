@@ -71,14 +71,23 @@ Manually Verified:
 
 
   # Code Comments
-  // This is a code comment
-  // 这是一行注释
+  // No blank line is needed between two single-line comments.
+  // 单行注释的两种注释间不需要空行。
 
-  // This is a
-  // multi-line comment.
+  // A blank line must be left between
+  // single-block, multi-line comments.
   //
-  // 这是一个
-  // 多行注释
+  // 在单段多行注释之间
+  // 必须留出一个空行。
+
+  // This is a multi-line comment spanning multiple sections.
+  //
+  // Two blank lines must be left between comments in the two languages.
+  //
+  //
+  // 这是一个多段多行注释。
+  //
+  // 在两种语言的注释之间，必须留出两个空行。
 
 
   # Output & Display
