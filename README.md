@@ -92,7 +92,8 @@ Manually Verified:
 
   # Output & Display
   Expects language resolution to follow a fixed priority:
-  1. An explicit manual language parameter (like `-l`, `--lang` and `--language` in a Python script, a container env var...)
-  2. Automatically detected (like the system/browser language)
-  3. English as the guaranteed fallback
+  1. An explicit manual language parameter (like `-l`, `--lang` and `--language` in a Python script,
+    or a container env var...) is set to 'en' or 'zh-CN'.
+  2. Automatically detected (like the system/browser language).
+  3. English as the guaranteed fallback.
   ```
