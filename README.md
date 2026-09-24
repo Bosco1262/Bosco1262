@@ -28,14 +28,14 @@ Planning:
 - [SynologyDrive-for-HarmonyOS](https://github.com/Bosco1262/SynologyDrive-for-HarmonyOS)
 - [llama-cmd-for-rx590-and-16gRAM](https://github.com/Bosco1262/llama-cmd-for-rx590-and-16gRAM)
 - [Cloudflare-AI-Aggregator](https://github.com/Bosco1262/Cloudflare-AI-Aggregator)
+- [open-webui-to-openai-api](https://github.com/Bosco1262/open-webui-to-openai-api)
+- [open-webui-to-openai-api-worker](https://github.com/Bosco1262/open-webui-to-openai-api-worker)
+- [wake-on-usb-server-on-onecloud-armbian-docker](https://github.com/Bosco1262/wake-on-usb-server-on-onecloud-armbian-docker)
 
 Finished:
 - [emby-tmm-library-tools](https://github.com/Bosco1262/emby-tmm-library-tools)
 - [ClaudeCode-Deployment-for-HarmonyOS](https://github.com/Bosco1262/ClaudeCode-Deployment-for-HarmonyOS)
 - [SelfShorts](https://github.com/Bosco1262/SelfShorts)
-- [open-webui-to-openai-api](https://github.com/Bosco1262/open-webui-to-openai-api)
-- [open-webui-to-openai-api-worker](https://github.com/Bosco1262/open-webui-to-openai-api-worker)
-- [wake-on-usb-server-on-onecloud-armbian-docker](https://github.com/Bosco1262/wake-on-usb-server-on-onecloud-armbian-docker)
 
 Manually Verified:
 
@@ -44,12 +44,13 @@ Manually Verified:
 Planning:
 - [StoneBadge-on-Cloudflare-Worker](https://github.com/Bosco1262/StoneBadge-on-Cloudflare-Worker): Transplant to Cloudflare Worker
 - [M365-Copilot2API-on-Cloudflare-Worker](https://github.com/Bosco1262/M365-Copilot2API-on-Cloudflare-Worker): Transplant to Cloudflare Worker
+- [subconverter-on-cloudflare-worker](https://github.com/Bosco1262/subconverter-on-cloudflare-worker): Transplant to Cloudflare Worker
+- [CF-Worker-Uptime](https://github.com/Bosco1262/CF-Worker-Uptime): Add Cloudflare automatic resource provisioning and add web control
+- [Sun-Panel-on-Cloudflare-Worker](https://github.com/Bosco1262/Sun-Panel-on-Cloudflare-Worker): Transplant to Cloudflare Worker
 
 Finished:
-- [transmission-web-control-for-DSM7.2](https://github.com/Bosco1262/transmission-web-control-for-DSM7.2): Fix script for installing transmission-web-control on DSM 7.2 
-- [CF-Worker-Uptime](https://github.com/Bosco1262/CF-Worker-Uptime): Add github action to automatically bootstrap Cloudflare D1 for CF-Worker-Uptime
-- [CF-Workers-SUB](https://github.com/Bosco1262/CF-Workers-SUB): Enable KV auto provisioning
-- [Sun-Panel-on-Cloudflare-Worker](https://github.com/Bosco1262/Sun-Panel-on-Cloudflare-Worker): Transplant to Cloudflare Worker
+- [transmission-web-control-for-DSM7.2](https://github.com/Bosco1262/transmission-web-control-for-DSM7.2): Fix scripts for installing transmission-web-control on DSM 7.2
+- [CF-Workers-SUB](https://github.com/Bosco1262/CF-Workers-SUB): Add Cloudflare automatic resource provisioning and disable default workers.dev domain
 
 Manually Verified:
 
