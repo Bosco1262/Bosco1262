@@ -31,6 +31,7 @@ Planning:
 - [open-webui-to-openai-api](https://github.com/Bosco1262/open-webui-to-openai-api)
 - [open-webui-to-openai-api-worker](https://github.com/Bosco1262/open-webui-to-openai-api-worker)
 - [wake-on-usb-server-on-onecloud-armbian-docker](https://github.com/Bosco1262/wake-on-usb-server-on-onecloud-armbian-docker)
+- [ComfyUI-aki-Deployment-for-AMD-MI50](https://github.com/Bosco1262/ComfyUI-aki-Deployment-for-AMD-MI50)
 
 Finished:
 - [emby-tmm-library-tools](https://github.com/Bosco1262/emby-tmm-library-tools)
