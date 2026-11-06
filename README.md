@@ -26,7 +26,6 @@ Planning:
 - [Family-Museum-Archive](https://github.com/Bosco1262/Family-Museum-Archive)
 - [SoundScape](https://github.com/Bosco1262/SoundScape)
 - [SynologyDrive-for-HarmonyOS](https://github.com/Bosco1262/SynologyDrive-for-HarmonyOS)
-- [llama-cmd-for-rx590-and-16gRAM](https://github.com/Bosco1262/llama-cmd-for-rx590-and-16gRAM)
 - [Cloudflare-AI-Aggregator](https://github.com/Bosco1262/Cloudflare-AI-Aggregator)
 - [open-webui-to-openai-api](https://github.com/Bosco1262/open-webui-to-openai-api)
 - [open-webui-to-openai-api-worker](https://github.com/Bosco1262/open-webui-to-openai-api-worker)
@@ -37,6 +36,7 @@ Finished:
 - [emby-tmm-library-tools](https://github.com/Bosco1262/emby-tmm-library-tools)
 - [ClaudeCode-Deployment-for-HarmonyOS](https://github.com/Bosco1262/ClaudeCode-Deployment-for-HarmonyOS)
 - [SelfShorts](https://github.com/Bosco1262/SelfShorts)
+- [llamacpp-tuning-notes](https://github.com/Bosco1262/llamacpp-tuning-notes)
 - [ComfyUI-aki-Deployment-for-AMD-MI50](https://github.com/Bosco1262/ComfyUI-aki-Deployment-for-AMD-MI50)
 
 Manually Verified:
