@@ -38,7 +38,6 @@ Finished:
 - [SelfShorts](https://github.com/Bosco1262/SelfShorts)
 - [llamacpp-tuning-notes](https://github.com/Bosco1262/llamacpp-tuning-notes)
 - [ComfyUI-aki-Deployment-for-AMD-MI50](https://github.com/Bosco1262/ComfyUI-aki-Deployment-for-AMD-MI50)
-- [llamacpp-tuning-notes](https://github.com/Bosco1262/llamacpp-tuning-notes)
 - [debian-swap-bbr](https://github.com/Bosco1262/debian-swap-bbr)
 
 Manually Verified:
