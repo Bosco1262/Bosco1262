@@ -39,9 +39,9 @@ Finished:
 - [llamacpp-tuning-notes](https://github.com/Bosco1262/llamacpp-tuning-notes)
 - [ComfyUI-aki-Deployment-for-AMD-MI50](https://github.com/Bosco1262/ComfyUI-aki-Deployment-for-AMD-MI50)
 - [debian-swap-bbr](https://github.com/Bosco1262/debian-swap-bbr)
-- [singbox-vps-core5](https://github.com/Bosco1262/singbox-vps-core5)
 
 Manually Verified:
+- [gcp-pro-credit-spot-with-auto-start-guide](https://github.com/Bosco1262/gcp-pro-credit-spot-with-auto-start-guide)
 
 ### Derived Repositories
 
@@ -51,6 +51,7 @@ Planning:
 - [subconverter-on-cloudflare-worker](https://github.com/Bosco1262/subconverter-on-cloudflare-worker): Transplant to Cloudflare Worker
 - [CF-Worker-Uptime](https://github.com/Bosco1262/CF-Worker-Uptime): Add Cloudflare automatic resource provisioning and add web control
 - [Sun-Panel-on-Cloudflare-Worker](https://github.com/Bosco1262/Sun-Panel-on-Cloudflare-Worker): Transplant to Cloudflare Worker
+- [singbox-vps-core5](https://github.com/Bosco1262/singbox-vps-core5)
 
 Finished:
 - [transmission-web-control-for-DSM7.2](https://github.com/Bosco1262/transmission-web-control-for-DSM7.2): Fix scripts for installing transmission-web-control on DSM 7.2
