@@ -36,12 +36,12 @@ Finished:
 - [emby-tmm-library-tools](https://github.com/Bosco1262/emby-tmm-library-tools)
 - [ClaudeCode-Deployment-for-HarmonyOS](https://github.com/Bosco1262/ClaudeCode-Deployment-for-HarmonyOS)
 - [SelfShorts](https://github.com/Bosco1262/SelfShorts)
-- [llamacpp-tuning-notes](https://github.com/Bosco1262/llamacpp-tuning-notes)
 - [ComfyUI-aki-Deployment-for-AMD-MI50](https://github.com/Bosco1262/ComfyUI-aki-Deployment-for-AMD-MI50)
-- [debian-swap-bbr](https://github.com/Bosco1262/debian-swap-bbr)
 
 Manually Verified:
+- [debian-swap-bbr](https://github.com/Bosco1262/debian-swap-bbr)
 - [gcp-pro-credit-spot-with-auto-start-guide](https://github.com/Bosco1262/gcp-pro-credit-spot-with-auto-start-guide)
+- [llamacpp-tuning-notes](https://github.com/Bosco1262/llamacpp-tuning-notes)
 
 ### Derived Repositories
 
@@ -68,12 +68,8 @@ Manually Verified:
 
   ```markdown
   # README
-  # Language Switch
+  # Language switch under H1 title
   [English](README.md) | [简体中文](README.zh-CN.md)
-
-  # License
-  README.md: This project is licensed under the [MIT License](LICENSE).
-  README.zh-CN.md: 本项目采用 [MIT License](LICENSE)。
 
 
   # Code Comments
